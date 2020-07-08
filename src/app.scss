@@ -1,0 +1,15 @@
+$defaultColor : blue;
+$primaryColor : green;
+$secondaryColor : red;
+
+h2 {
+  color: $defaultColor;
+}
+
+h3 {
+  color: $primaryColor;
+}
+
+p {
+  color: $secondaryColor;
+}
